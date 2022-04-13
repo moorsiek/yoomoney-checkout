@@ -57,5 +57,11 @@
                 "YandexCheckout": "Orkhanahmadov\\YandexCheckout\\Facades\\YandexCheckout"
             }
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:nokimaro/yookassa-sdk-php.git"
+        }
+    ]
 }
