@@ -25,7 +25,7 @@
         "illuminate/database": "^6.0|^7.0|^8.0|^9.0|^10.0",
         "illuminate/queue": "^6.0|^7.0|^8.0|^9.0|^10.0",
         "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0",
-        "yoomoney/yookassa-sdk-php": "dev-master"
+        "yoomoney/yookassa-sdk-php": "^2.0"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0|^5.0|^6.0",
@@ -57,11 +57,5 @@
                 "YandexCheckout": "Orkhanahmadov\\YandexCheckout\\Facades\\YandexCheckout"
             }
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:nokimaro/yookassa-sdk-php.git"
-        }
-    ]
+    }
 }
